@@ -1,5 +1,5 @@
 {
-    "name": "liberu/analytics-contracts",
+    "name": "liberusoftware/analytics-contracts",
     "description": "Stable provider-neutral contracts and value types for Liberu Analytics.",
     "type": "library",
     "version": "1.0.0",

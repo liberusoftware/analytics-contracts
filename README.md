@@ -17,7 +17,7 @@ Stable provider-neutral contracts and value types for Liberu Analytics. This pac
 | `php` | `^8.5` |
 
 ```bash
-composer require liberu/analytics-contracts
+composer require liberusoftware/analytics-contracts
 ```
 
 ## Public surface
